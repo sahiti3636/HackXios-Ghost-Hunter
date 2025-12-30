@@ -10,7 +10,6 @@ results/
 archived_reports/
 output/
 *.db
-sar_cnn_model.pth
 .vscode/
 package-lock.json
 cnn_dataset/
