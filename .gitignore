@@ -1,0 +1,16 @@
+ghost-hunter-frontend/
+hackxois/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/
+results/
+archived_reports/
+output/
+*.db
+sar_cnn_model.pth
+.kiro/
+.vscode/
+package-lock.json
