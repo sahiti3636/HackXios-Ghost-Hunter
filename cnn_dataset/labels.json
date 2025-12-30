@@ -1,0 +1,1953 @@
+[
+  {
+    "image": "ship_1.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 18,
+    "mean_sbci": 8.416434,
+    "max_sbci": 12.830397,
+    "detection_confidence": 12.830397,
+    "center_coordinates": [
+      10160,
+      3021
+    ],
+    "geographic_coordinates": [
+      46.507508838729684,
+      -26.89835278518448
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.621041"
+  },
+  {
+    "image": "ship_2.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 11.201072,
+    "max_sbci": 16.522188,
+    "detection_confidence": 16.522188,
+    "center_coordinates": [
+      6693,
+      8807
+    ],
+    "geographic_coordinates": [
+      44.06865843091738,
+      -28.990931409416483
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.622040"
+  },
+  {
+    "image": "sea_1.png",
+    "label": 0,
+    "center_coordinates": [
+      6799,
+      665
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.623042"
+  },
+  {
+    "image": "sea_2.png",
+    "label": 0,
+    "center_coordinates": [
+      10304,
+      951
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.624359"
+  },
+  {
+    "image": "sea_3.png",
+    "label": 0,
+    "center_coordinates": [
+      9639,
+      8358
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.624886"
+  },
+  {
+    "image": "sea_4.png",
+    "label": 0,
+    "center_coordinates": [
+      9609,
+      978
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.625972"
+  },
+  {
+    "image": "sea_5.png",
+    "label": 0,
+    "center_coordinates": [
+      8859,
+      976
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.633410"
+  },
+  {
+    "image": "sea_6.png",
+    "label": 0,
+    "center_coordinates": [
+      3062,
+      6336
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.635422"
+  },
+  {
+    "image": "sea_7.png",
+    "label": 0,
+    "center_coordinates": [
+      9703,
+      2333
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.636418"
+  },
+  {
+    "image": "sea_8.png",
+    "label": 0,
+    "center_coordinates": [
+      9980,
+      7484
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.637420"
+  },
+  {
+    "image": "sea_9.png",
+    "label": 0,
+    "center_coordinates": [
+      1555,
+      1371
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.638419"
+  },
+  {
+    "image": "sea_10.png",
+    "label": 0,
+    "center_coordinates": [
+      7014,
+      10049
+    ],
+    "satellite_source": "sat2",
+    "added_timestamp": "2025-12-29T10:33:05.638419"
+  },
+  {
+    "image": "ship_3.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 8.12431,
+    "max_sbci": 9.967808,
+    "detection_confidence": 9.967808,
+    "center_coordinates": [
+      9184,
+      5622
+    ],
+    "geographic_coordinates": [
+      40.675792950274186,
+      -20.651206246365724
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.894951"
+  },
+  {
+    "image": "ship_4.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 10.390249,
+    "max_sbci": 13.308211,
+    "detection_confidence": 13.308211,
+    "center_coordinates": [
+      6445,
+      6482
+    ],
+    "geographic_coordinates": [
+      40.31328060897853,
+      -22.18016524148814
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.896954"
+  },
+  {
+    "image": "ship_5.png",
+    "label": 1,
+    "vessel_id": 3,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 7.736667,
+    "max_sbci": 9.532665,
+    "detection_confidence": 9.532665,
+    "center_coordinates": [
+      9181,
+      9747
+    ],
+    "geographic_coordinates": [
+      38.93699828998977,
+      -20.65288090024866
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.897953"
+  },
+  {
+    "image": "sea_11.png",
+    "label": 0,
+    "center_coordinates": [
+      5474,
+      9790
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.898953"
+  },
+  {
+    "image": "sea_12.png",
+    "label": 0,
+    "center_coordinates": [
+      1559,
+      8863
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.900957"
+  },
+  {
+    "image": "sea_13.png",
+    "label": 0,
+    "center_coordinates": [
+      4654,
+      8351
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.901954"
+  },
+  {
+    "image": "sea_14.png",
+    "label": 0,
+    "center_coordinates": [
+      2607,
+      9654
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.902956"
+  },
+  {
+    "image": "sea_15.png",
+    "label": 0,
+    "center_coordinates": [
+      8573,
+      1921
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.904938"
+  },
+  {
+    "image": "sea_16.png",
+    "label": 0,
+    "center_coordinates": [
+      1802,
+      5450
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.905514"
+  },
+  {
+    "image": "sea_17.png",
+    "label": 0,
+    "center_coordinates": [
+      713,
+      3137
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.907640"
+  },
+  {
+    "image": "sea_18.png",
+    "label": 0,
+    "center_coordinates": [
+      6293,
+      5962
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.908651"
+  },
+  {
+    "image": "sea_19.png",
+    "label": 0,
+    "center_coordinates": [
+      2928,
+      2043
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.909647"
+  },
+  {
+    "image": "sea_20.png",
+    "label": 0,
+    "center_coordinates": [
+      1464,
+      7827
+    ],
+    "satellite_source": "sat3",
+    "added_timestamp": "2025-12-29T10:34:35.910643"
+  },
+  {
+    "image": "ship_6.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 7.485863,
+    "max_sbci": 8.539191,
+    "detection_confidence": 8.539191,
+    "center_coordinates": [
+      9073,
+      8957
+    ],
+    "geographic_coordinates": [
+      42.95118244285316,
+      -25.825204157594214
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.224794"
+  },
+  {
+    "image": "sea_21.png",
+    "label": 0,
+    "center_coordinates": [
+      3043,
+      3693
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.225791"
+  },
+  {
+    "image": "sea_22.png",
+    "label": 0,
+    "center_coordinates": [
+      75,
+      7411
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.226798"
+  },
+  {
+    "image": "sea_23.png",
+    "label": 0,
+    "center_coordinates": [
+      5886,
+      221
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.227797"
+  },
+  {
+    "image": "sea_24.png",
+    "label": 0,
+    "center_coordinates": [
+      6720,
+      7063
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.227797"
+  },
+  {
+    "image": "sea_25.png",
+    "label": 0,
+    "center_coordinates": [
+      3483,
+      8477
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.229788"
+  },
+  {
+    "image": "sea_26.png",
+    "label": 0,
+    "center_coordinates": [
+      851,
+      1107
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.230786"
+  },
+  {
+    "image": "sea_27.png",
+    "label": 0,
+    "center_coordinates": [
+      1438,
+      3765
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.231550"
+  },
+  {
+    "image": "sea_28.png",
+    "label": 0,
+    "center_coordinates": [
+      273,
+      6475
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.232679"
+  },
+  {
+    "image": "sea_29.png",
+    "label": 0,
+    "center_coordinates": [
+      5393,
+      8537
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.233791"
+  },
+  {
+    "image": "sea_30.png",
+    "label": 0,
+    "center_coordinates": [
+      935,
+      10034
+    ],
+    "satellite_source": "sat4",
+    "added_timestamp": "2025-12-29T10:36:38.234800"
+  },
+  {
+    "image": "ship_7.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 8.343658,
+    "max_sbci": 10.208371,
+    "detection_confidence": 10.208371,
+    "center_coordinates": [
+      8126,
+      10076
+    ],
+    "geographic_coordinates": [
+      42.48034705857741,
+      -26.387812790635707
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.307671"
+  },
+  {
+    "image": "sea_31.png",
+    "label": 0,
+    "center_coordinates": [
+      6589,
+      3568
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.309530"
+  },
+  {
+    "image": "sea_32.png",
+    "label": 0,
+    "center_coordinates": [
+      7953,
+      1426
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.317057"
+  },
+  {
+    "image": "sea_33.png",
+    "label": 0,
+    "center_coordinates": [
+      7598,
+      6754
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.319056"
+  },
+  {
+    "image": "sea_34.png",
+    "label": 0,
+    "center_coordinates": [
+      10120,
+      546
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.320055"
+  },
+  {
+    "image": "sea_35.png",
+    "label": 0,
+    "center_coordinates": [
+      10355,
+      4476
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.321054"
+  },
+  {
+    "image": "sea_36.png",
+    "label": 0,
+    "center_coordinates": [
+      5324,
+      1578
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.322057"
+  },
+  {
+    "image": "sea_37.png",
+    "label": 0,
+    "center_coordinates": [
+      985,
+      7071
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.324051"
+  },
+  {
+    "image": "sea_38.png",
+    "label": 0,
+    "center_coordinates": [
+      8415,
+      1819
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.325049"
+  },
+  {
+    "image": "sea_39.png",
+    "label": 0,
+    "center_coordinates": [
+      8272,
+      2946
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.326706"
+  },
+  {
+    "image": "sea_40.png",
+    "label": 0,
+    "center_coordinates": [
+      527,
+      8303
+    ],
+    "satellite_source": "sat5",
+    "added_timestamp": "2025-12-29T10:41:11.327864"
+  },
+  {
+    "image": "ship_8.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 6.911435,
+    "max_sbci": 8.894102,
+    "detection_confidence": 8.894102,
+    "center_coordinates": [
+      5765,
+      6875
+    ],
+    "geographic_coordinates": [
+      41.000689695067265,
+      -30.565481681058362
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.422783"
+  },
+  {
+    "image": "ship_9.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 18,
+    "mean_sbci": 8.65862,
+    "max_sbci": 12.095676,
+    "detection_confidence": 12.095676,
+    "center_coordinates": [
+      7575,
+      7915
+    ],
+    "geographic_coordinates": [
+      40.557122095067264,
+      -29.550485468271404
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.423894"
+  },
+  {
+    "image": "sea_41.png",
+    "label": 0,
+    "center_coordinates": [
+      7829,
+      7941
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.424893"
+  },
+  {
+    "image": "sea_42.png",
+    "label": 0,
+    "center_coordinates": [
+      4534,
+      9145
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.425892"
+  },
+  {
+    "image": "sea_43.png",
+    "label": 0,
+    "center_coordinates": [
+      8065,
+      8079
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.425892"
+  },
+  {
+    "image": "sea_44.png",
+    "label": 0,
+    "center_coordinates": [
+      136,
+      3218
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.426889"
+  },
+  {
+    "image": "sea_45.png",
+    "label": 0,
+    "center_coordinates": [
+      3240,
+      6468
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.427896"
+  },
+  {
+    "image": "sea_46.png",
+    "label": 0,
+    "center_coordinates": [
+      9734,
+      6391
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.428898"
+  },
+  {
+    "image": "sea_47.png",
+    "label": 0,
+    "center_coordinates": [
+      7578,
+      5778
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.429896"
+  },
+  {
+    "image": "sea_48.png",
+    "label": 0,
+    "center_coordinates": [
+      2676,
+      1219
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.430907"
+  },
+  {
+    "image": "sea_49.png",
+    "label": 0,
+    "center_coordinates": [
+      4048,
+      4446
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.431889"
+  },
+  {
+    "image": "sea_50.png",
+    "label": 0,
+    "center_coordinates": [
+      3219,
+      8221
+    ],
+    "satellite_source": "sat6",
+    "added_timestamp": "2025-12-29T10:43:03.432906"
+  },
+  {
+    "image": "ship_10.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 15,
+    "mean_sbci": 9.719151,
+    "max_sbci": 13.582075,
+    "detection_confidence": 13.582075,
+    "center_coordinates": [
+      9110,
+      1072
+    ],
+    "geographic_coordinates": [
+      45.246366228807744,
+      -19.563231914923108
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.295968"
+  },
+  {
+    "image": "sea_51.png",
+    "label": 0,
+    "center_coordinates": [
+      8369,
+      8146
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.297967"
+  },
+  {
+    "image": "sea_52.png",
+    "label": 0,
+    "center_coordinates": [
+      8631,
+      6641
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.299977"
+  },
+  {
+    "image": "sea_53.png",
+    "label": 0,
+    "center_coordinates": [
+      3608,
+      9537
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.301973"
+  },
+  {
+    "image": "sea_54.png",
+    "label": 0,
+    "center_coordinates": [
+      3512,
+      2878
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.303935"
+  },
+  {
+    "image": "sea_55.png",
+    "label": 0,
+    "center_coordinates": [
+      2011,
+      88
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.306049"
+  },
+  {
+    "image": "sea_56.png",
+    "label": 0,
+    "center_coordinates": [
+      1068,
+      2234
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.308044"
+  },
+  {
+    "image": "sea_57.png",
+    "label": 0,
+    "center_coordinates": [
+      9965,
+      5594
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.309041"
+  },
+  {
+    "image": "sea_58.png",
+    "label": 0,
+    "center_coordinates": [
+      2505,
+      315
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.311045"
+  },
+  {
+    "image": "sea_59.png",
+    "label": 0,
+    "center_coordinates": [
+      6054,
+      5817
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.312045"
+  },
+  {
+    "image": "sea_60.png",
+    "label": 0,
+    "center_coordinates": [
+      7552,
+      3551
+    ],
+    "satellite_source": "sat7",
+    "added_timestamp": "2025-12-29T10:44:55.314044"
+  },
+  {
+    "image": "ship_11.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 18,
+    "mean_sbci": 9.883849,
+    "max_sbci": 14.792693,
+    "detection_confidence": 14.792693,
+    "center_coordinates": [
+      10077,
+      7809
+    ],
+    "geographic_coordinates": [
+      40.60250185391131,
+      -28.14880184898271
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.331685"
+  },
+  {
+    "image": "sea_61.png",
+    "label": 0,
+    "center_coordinates": [
+      6960,
+      4058
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.333684"
+  },
+  {
+    "image": "sea_62.png",
+    "label": 0,
+    "center_coordinates": [
+      2178,
+      4199
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.334693"
+  },
+  {
+    "image": "sea_63.png",
+    "label": 0,
+    "center_coordinates": [
+      8725,
+      1789
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.335683"
+  },
+  {
+    "image": "sea_64.png",
+    "label": 0,
+    "center_coordinates": [
+      9806,
+      3971
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.336693"
+  },
+  {
+    "image": "sea_65.png",
+    "label": 0,
+    "center_coordinates": [
+      8950,
+      4743
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.338680"
+  },
+  {
+    "image": "sea_66.png",
+    "label": 0,
+    "center_coordinates": [
+      8464,
+      6668
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.339682"
+  },
+  {
+    "image": "sea_67.png",
+    "label": 0,
+    "center_coordinates": [
+      7745,
+      2807
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.340693"
+  },
+  {
+    "image": "sea_68.png",
+    "label": 0,
+    "center_coordinates": [
+      553,
+      9598
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.341694"
+  },
+  {
+    "image": "sea_69.png",
+    "label": 0,
+    "center_coordinates": [
+      1551,
+      6113
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.343691"
+  },
+  {
+    "image": "sea_70.png",
+    "label": 0,
+    "center_coordinates": [
+      9147,
+      4933
+    ],
+    "satellite_source": "sat10",
+    "added_timestamp": "2025-12-29T10:47:45.344691"
+  },
+  {
+    "image": "ship_12.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 19,
+    "mean_sbci": 10.777102,
+    "max_sbci": 16.929909,
+    "detection_confidence": 16.929909,
+    "center_coordinates": [
+      5962,
+      5989
+    ],
+    "geographic_coordinates": [
+      33.10071569801818,
+      -30.415484206772287
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.631971"
+  },
+  {
+    "image": "ship_13.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 8.576648,
+    "max_sbci": 13.184489,
+    "detection_confidence": 13.184489,
+    "center_coordinates": [
+      5140,
+      7823
+    ],
+    "geographic_coordinates": [
+      32.31272892710357,
+      -30.82613036558423
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.631971"
+  },
+  {
+    "image": "ship_14.png",
+    "label": 1,
+    "vessel_id": 3,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 8.1779,
+    "max_sbci": 10.07936,
+    "detection_confidence": 10.07936,
+    "center_coordinates": [
+      9046,
+      8937
+    ],
+    "geographic_coordinates": [
+      31.83432898108578,
+      -28.874811852871154
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.632973"
+  },
+  {
+    "image": "sea_71.png",
+    "label": 0,
+    "center_coordinates": [
+      6867,
+      7380
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.633971"
+  },
+  {
+    "image": "sea_72.png",
+    "label": 0,
+    "center_coordinates": [
+      8697,
+      5032
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.634973"
+  },
+  {
+    "image": "sea_73.png",
+    "label": 0,
+    "center_coordinates": [
+      7739,
+      1405
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.636559"
+  },
+  {
+    "image": "sea_74.png",
+    "label": 0,
+    "center_coordinates": [
+      3539,
+      829
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.638571"
+  },
+  {
+    "image": "sea_75.png",
+    "label": 0,
+    "center_coordinates": [
+      6717,
+      4633
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.639571"
+  },
+  {
+    "image": "sea_76.png",
+    "label": 0,
+    "center_coordinates": [
+      2392,
+      4377
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.640371"
+  },
+  {
+    "image": "sea_77.png",
+    "label": 0,
+    "center_coordinates": [
+      9616,
+      7751
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.641382"
+  },
+  {
+    "image": "sea_78.png",
+    "label": 0,
+    "center_coordinates": [
+      7190,
+      658
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.642380"
+  },
+  {
+    "image": "sea_79.png",
+    "label": 0,
+    "center_coordinates": [
+      6845,
+      1210
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.643379"
+  },
+  {
+    "image": "sea_80.png",
+    "label": 0,
+    "center_coordinates": [
+      7429,
+      5974
+    ],
+    "satellite_source": "sat8",
+    "added_timestamp": "2025-12-29T10:49:06.645061"
+  },
+  {
+    "image": "ship_15.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 6.736453,
+    "max_sbci": 8.578515,
+    "detection_confidence": 8.578515,
+    "center_coordinates": [
+      3909,
+      1990
+    ],
+    "geographic_coordinates": [
+      41.30535378098556,
+      -21.600750608373684
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.942187"
+  },
+  {
+    "image": "ship_16.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 15,
+    "mean_sbci": 8.946535,
+    "max_sbci": 12.110323,
+    "detection_confidence": 12.110323,
+    "center_coordinates": [
+      10434,
+      4013
+    ],
+    "geographic_coordinates": [
+      40.44225856171229,
+      -18.04353222717175
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.943189"
+  },
+  {
+    "image": "sea_81.png",
+    "label": 0,
+    "center_coordinates": [
+      1248,
+      6269
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.944181"
+  },
+  {
+    "image": "sea_82.png",
+    "label": 0,
+    "center_coordinates": [
+      6350,
+      8955
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.945182"
+  },
+  {
+    "image": "sea_83.png",
+    "label": 0,
+    "center_coordinates": [
+      2098,
+      3475
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.947185"
+  },
+  {
+    "image": "sea_84.png",
+    "label": 0,
+    "center_coordinates": [
+      7815,
+      1509
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.948184"
+  },
+  {
+    "image": "sea_85.png",
+    "label": 0,
+    "center_coordinates": [
+      6206,
+      9455
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.948819"
+  },
+  {
+    "image": "sea_86.png",
+    "label": 0,
+    "center_coordinates": [
+      647,
+      4947
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.949831"
+  },
+  {
+    "image": "sea_87.png",
+    "label": 0,
+    "center_coordinates": [
+      2230,
+      733
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.950833"
+  },
+  {
+    "image": "sea_88.png",
+    "label": 0,
+    "center_coordinates": [
+      9976,
+      3098
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.951829"
+  },
+  {
+    "image": "sea_89.png",
+    "label": 0,
+    "center_coordinates": [
+      6615,
+      6219
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.952829"
+  },
+  {
+    "image": "sea_90.png",
+    "label": 0,
+    "center_coordinates": [
+      5778,
+      9210
+    ],
+    "satellite_source": "sat9",
+    "added_timestamp": "2025-12-29T10:50:30.953827"
+  },
+  {
+    "image": "ship_17.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 8.072444,
+    "max_sbci": 12.524718,
+    "detection_confidence": 12.524718,
+    "center_coordinates": [
+      8843,
+      216
+    ],
+    "geographic_coordinates": [
+      43.8388708533134,
+      -28.840691134969912
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.232996"
+  },
+  {
+    "image": "ship_18.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 18,
+    "mean_sbci": 7.914239,
+    "max_sbci": 9.187334,
+    "detection_confidence": 9.187334,
+    "center_coordinates": [
+      3056,
+      3617
+    ],
+    "geographic_coordinates": [
+      42.389272807673144,
+      -32.08404621769032
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.233997"
+  },
+  {
+    "image": "ship_19.png",
+    "label": 1,
+    "vessel_id": 3,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 7.556551,
+    "max_sbci": 9.664202,
+    "detection_confidence": 9.664202,
+    "center_coordinates": [
+      9558,
+      4418
+    ],
+    "geographic_coordinates": [
+      42.04807808978575,
+      -28.439650685356767
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.234994"
+  },
+  {
+    "image": "ship_20.png",
+    "label": 1,
+    "vessel_id": 4,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 8.422648,
+    "max_sbci": 10.901777,
+    "detection_confidence": 10.901777,
+    "center_coordinates": [
+      2637,
+      8128
+    ],
+    "geographic_coordinates": [
+      40.46677589945192,
+      -32.31917755048238
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.235997"
+  },
+  {
+    "image": "ship_21.png",
+    "label": 1,
+    "vessel_id": 5,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 9.8262,
+    "max_sbci": 12.945776,
+    "detection_confidence": 12.945776,
+    "center_coordinates": [
+      3927,
+      8305
+    ],
+    "geographic_coordinates": [
+      40.391333719481814,
+      -31.596127683255325
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.236994"
+  },
+  {
+    "image": "ship_22.png",
+    "label": 1,
+    "vessel_id": 6,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 7.427195,
+    "max_sbci": 8.933087,
+    "detection_confidence": 8.933087,
+    "center_coordinates": [
+      4138,
+      9479
+    ],
+    "geographic_coordinates": [
+      39.890943215047336,
+      -31.477861387142994
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.237993"
+  },
+  {
+    "image": "sea_91.png",
+    "label": 0,
+    "center_coordinates": [
+      4958,
+      1178
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.238997"
+  },
+  {
+    "image": "sea_92.png",
+    "label": 0,
+    "center_coordinates": [
+      8767,
+      9339
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.240995"
+  },
+  {
+    "image": "sea_93.png",
+    "label": 0,
+    "center_coordinates": [
+      5145,
+      3689
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.241995"
+  },
+  {
+    "image": "sea_94.png",
+    "label": 0,
+    "center_coordinates": [
+      7644,
+      732
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.242994"
+  },
+  {
+    "image": "sea_95.png",
+    "label": 0,
+    "center_coordinates": [
+      3075,
+      7243
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.243994"
+  },
+  {
+    "image": "sea_96.png",
+    "label": 0,
+    "center_coordinates": [
+      1929,
+      2885
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.244997"
+  },
+  {
+    "image": "sea_97.png",
+    "label": 0,
+    "center_coordinates": [
+      2853,
+      9315
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.246652"
+  },
+  {
+    "image": "sea_98.png",
+    "label": 0,
+    "center_coordinates": [
+      9157,
+      1865
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.247661"
+  },
+  {
+    "image": "sea_99.png",
+    "label": 0,
+    "center_coordinates": [
+      3784,
+      607
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.248662"
+  },
+  {
+    "image": "sea_100.png",
+    "label": 0,
+    "center_coordinates": [
+      6295,
+      3236
+    ],
+    "satellite_source": "sat11",
+    "added_timestamp": "2025-12-29T10:53:19.250660"
+  },
+  {
+    "image": "ship_23.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 16,
+    "mean_sbci": 8.036317,
+    "max_sbci": 10.863633,
+    "detection_confidence": 10.863633,
+    "center_coordinates": [
+      9210,
+      4123
+    ],
+    "geographic_coordinates": [
+      41.08627231094897,
+      -22.756392121536404
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.682331"
+  },
+  {
+    "image": "ship_24.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 15,
+    "mean_sbci": 7.997698,
+    "max_sbci": 10.177467,
+    "detection_confidence": 10.177467,
+    "center_coordinates": [
+      8113,
+      4508
+    ],
+    "geographic_coordinates": [
+      40.92416337280416,
+      -23.366911678196065
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.683327"
+  },
+  {
+    "image": "ship_25.png",
+    "label": 1,
+    "vessel_id": 3,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 11.260193,
+    "max_sbci": 17.27664,
+    "detection_confidence": 17.27664,
+    "center_coordinates": [
+      3412,
+      7079
+    ],
+    "geographic_coordinates": [
+      39.839993972441675,
+      -25.98199362430728
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.684331"
+  },
+  {
+    "image": "sea_101.png",
+    "label": 0,
+    "center_coordinates": [
+      3975,
+      2863
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.685337"
+  },
+  {
+    "image": "sea_102.png",
+    "label": 0,
+    "center_coordinates": [
+      1916,
+      5589
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.686334"
+  },
+  {
+    "image": "sea_103.png",
+    "label": 0,
+    "center_coordinates": [
+      4182,
+      4504
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.687333"
+  },
+  {
+    "image": "sea_104.png",
+    "label": 0,
+    "center_coordinates": [
+      7534,
+      7875
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.688332"
+  },
+  {
+    "image": "sea_105.png",
+    "label": 0,
+    "center_coordinates": [
+      6544,
+      9475
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.689339"
+  },
+  {
+    "image": "sea_106.png",
+    "label": 0,
+    "center_coordinates": [
+      9522,
+      6305
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.690327"
+  },
+  {
+    "image": "sea_107.png",
+    "label": 0,
+    "center_coordinates": [
+      1352,
+      6646
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.692324"
+  },
+  {
+    "image": "sea_108.png",
+    "label": 0,
+    "center_coordinates": [
+      5390,
+      7737
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.693325"
+  },
+  {
+    "image": "sea_109.png",
+    "label": 0,
+    "center_coordinates": [
+      5479,
+      3082
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.694324"
+  },
+  {
+    "image": "sea_110.png",
+    "label": 0,
+    "center_coordinates": [
+      5532,
+      6581
+    ],
+    "satellite_source": "sat12",
+    "added_timestamp": "2025-12-29T10:54:46.695328"
+  },
+  {
+    "image": "ship_26.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 2,
+    "ais_status": "DARK",
+    "area_pixels": 23,
+    "mean_sbci": 8.598788,
+    "max_sbci": 14.456752,
+    "detection_confidence": 14.456752,
+    "center_coordinates": [
+      9886,
+      2050
+    ],
+    "geographic_coordinates": [
+      34.79292434487894,
+      -28.45370697478501
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.262426"
+  },
+  {
+    "image": "ship_27.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 16,
+    "mean_sbci": 14.338387,
+    "max_sbci": 20.067631,
+    "detection_confidence": 20.067631,
+    "center_coordinates": [
+      7076,
+      6231
+    ],
+    "geographic_coordinates": [
+      32.996784036294855,
+      -29.857390655366157
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.263426"
+  },
+  {
+    "image": "ship_28.png",
+    "label": 1,
+    "vessel_id": 3,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 7.712814,
+    "max_sbci": 9.805272,
+    "detection_confidence": 9.805272,
+    "center_coordinates": [
+      8915,
+      7572
+    ],
+    "geographic_coordinates": [
+      32.42084789397812,
+      -28.939037407770687
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.263426"
+  },
+  {
+    "image": "ship_29.png",
+    "label": 1,
+    "vessel_id": 4,
+    "cluster_id": 0,
+    "ais_status": "DARK",
+    "area_pixels": 9,
+    "mean_sbci": 6.911068,
+    "max_sbci": 7.781002,
+    "detection_confidence": 7.781002,
+    "center_coordinates": [
+      5517,
+      7845
+    ],
+    "geographic_coordinates": [
+      32.30355541590839,
+      -30.636379988858206
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.265421"
+  },
+  {
+    "image": "sea_111.png",
+    "label": 0,
+    "center_coordinates": [
+      523,
+      8536
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.266540"
+  },
+  {
+    "image": "sea_112.png",
+    "label": 0,
+    "center_coordinates": [
+      6947,
+      414
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.266983"
+  },
+  {
+    "image": "sea_113.png",
+    "label": 0,
+    "center_coordinates": [
+      1340,
+      4889
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.268043"
+  },
+  {
+    "image": "sea_114.png",
+    "label": 0,
+    "center_coordinates": [
+      7685,
+      3839
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.269043"
+  },
+  {
+    "image": "sea_115.png",
+    "label": 0,
+    "center_coordinates": [
+      4279,
+      298
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.270043"
+  },
+  {
+    "image": "sea_116.png",
+    "label": 0,
+    "center_coordinates": [
+      2691,
+      6880
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.272040"
+  },
+  {
+    "image": "sea_117.png",
+    "label": 0,
+    "center_coordinates": [
+      5241,
+      5862
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.273043"
+  },
+  {
+    "image": "sea_118.png",
+    "label": 0,
+    "center_coordinates": [
+      495,
+      1042
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.274040"
+  },
+  {
+    "image": "sea_119.png",
+    "label": 0,
+    "center_coordinates": [
+      10290,
+      4841
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.275284"
+  },
+  {
+    "image": "sea_120.png",
+    "label": 0,
+    "center_coordinates": [
+      1406,
+      8960
+    ],
+    "satellite_source": "sat13",
+    "added_timestamp": "2025-12-29T10:56:08.276528"
+  },
+  {
+    "image": "ship_30.png",
+    "label": 1,
+    "vessel_id": 1,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 12,
+    "mean_sbci": 11.550382,
+    "max_sbci": 16.335642,
+    "detection_confidence": 16.335642,
+    "center_coordinates": [
+      9154,
+      2464
+    ],
+    "geographic_coordinates": [
+      41.8255919877988,
+      -26.90964310842456
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.377136"
+  },
+  {
+    "image": "ship_31.png",
+    "label": 1,
+    "vessel_id": 2,
+    "cluster_id": 1,
+    "ais_status": "DARK",
+    "area_pixels": 19,
+    "mean_sbci": 9.851528,
+    "max_sbci": 15.125378,
+    "detection_confidence": 15.125378,
+    "center_coordinates": [
+      8100,
+      4537
+    ],
+    "geographic_coordinates": [
+      40.94165117018767,
+      -27.490181695142663
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.378123"
+  },
+  {
+    "image": "sea_121.png",
+    "label": 0,
+    "center_coordinates": [
+      9009,
+      4645
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.378123"
+  },
+  {
+    "image": "sea_122.png",
+    "label": 0,
+    "center_coordinates": [
+      8993,
+      8880
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.379124"
+  },
+  {
+    "image": "sea_123.png",
+    "label": 0,
+    "center_coordinates": [
+      3054,
+      7746
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.380129"
+  },
+  {
+    "image": "sea_124.png",
+    "label": 0,
+    "center_coordinates": [
+      1231,
+      724
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.381637"
+  },
+  {
+    "image": "sea_125.png",
+    "label": 0,
+    "center_coordinates": [
+      2033,
+      1574
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.382646"
+  },
+  {
+    "image": "sea_126.png",
+    "label": 0,
+    "center_coordinates": [
+      4500,
+      1042
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.383656"
+  },
+  {
+    "image": "sea_127.png",
+    "label": 0,
+    "center_coordinates": [
+      5708,
+      2495
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.384657"
+  },
+  {
+    "image": "sea_128.png",
+    "label": 0,
+    "center_coordinates": [
+      7005,
+      121
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.385666"
+  },
+  {
+    "image": "sea_129.png",
+    "label": 0,
+    "center_coordinates": [
+      810,
+      6807
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.386669"
+  },
+  {
+    "image": "sea_130.png",
+    "label": 0,
+    "center_coordinates": [
+      3374,
+      7255
+    ],
+    "satellite_source": "sat14",
+    "added_timestamp": "2025-12-29T11:03:57.387678"
+  }
+]

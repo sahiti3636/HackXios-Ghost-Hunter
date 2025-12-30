@@ -1,0 +1,11 @@
+{
+  "total_ships": 2,
+  "total_sea_patches": 10,
+  "target_sea_patches": 10,
+  "patch_size": 64,
+  "generation_time": "2025-12-29T11:03:57.392758",
+  "sea_patch_success_rate": 100.0,
+  "cumulative_ship_patches": 31,
+  "cumulative_sea_patches": 130,
+  "cumulative_total_patches": 161
+}
