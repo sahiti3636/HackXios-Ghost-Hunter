@@ -11,7 +11,6 @@ archived_reports/
 output/
 *.db
 sar_cnn_model.pth
-.kiro/
 .vscode/
 package-lock.json
 cnn_dataset/
