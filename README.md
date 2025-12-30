@@ -19,10 +19,11 @@
 ## 📚 Tracks & Documentation
 
 ### 🏆 Open Innovation Track
-We leverage cutting-edge **Generative AI (Gemini 1.5)** and **Computer Vision** to solve a critical global security challenge: illegal, unreported, and unregulated (IUU) fishing. Our system moves beyond simple detection to provide *actionable intelligence* and automated threat assessment.
+We present an end-to-end maritime intelligence system that tackles illegal, unreported, and unregulated (IUU) fishing using satellite radar, computer vision, and behavioral analysis.
+Our approach goes beyond simple vessel detection by fusing Sentinel-1 SAR imagery, physics-based ship detection, CNN-based visual validation, AIS silence verification, and context-aware risk scoring to identify dark vessels operating inside protected marine regions. By combining spatial legality (MPAs), motion cues, fleet-level context, and explainable risk fusion, the system produces actionable, analyst-ready intelligence rather than raw alerts — enabling faster, more informed maritime enforcement decisions.
 
 ### ☁️ AWS Track
-Our architecture is designed to scale on AWS infrastructure, utilizing **S3** for satellite data storage, **EC2/SageMaker** for heavy model inference, and **Lambda** for lightweight API orchestration.
+Our system leverages Kiro as the central orchestration and execution layer for the pipeline, enabling seamless coordination of satellite ingestion, model execution, and risk analysis workflows. Kiro is used to manage task scheduling, modular pipeline stages, and controlled execution of compute-intensive components, allowing the system to remain scalable, reproducible, and easy to extend. By structuring the entire intelligence flow as Kiro-managed tasks, we demonstrate how Kiro can be effectively used to operationalize complex AI pipelines — from data ingestion to final threat assessment — with clarity and reliability.
 
 ---
 
