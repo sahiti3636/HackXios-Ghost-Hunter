@@ -1,0 +1,30 @@
+{
+  "satellite_name": "sat10",
+  "summary": {
+    "total_radar_detections": 1,
+    "normal_vessels": 0,
+    "dark_vessels": 1,
+    "dark_vessel_percentage": 100.0,
+    "parameters": {
+      "distance_threshold_km": 2,
+      "time_threshold_minutes": 60,
+      "ais_search_buffer_deg": 1.0
+    }
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 10077.0,
+      "pixel_y": 7809.5,
+      "latitude": 40.60250185391131,
+      "longitude": -28.14880184898271,
+      "area_pixels": 18,
+      "mean_backscatter": 1844.9444580078125,
+      "max_backscatter": 2731.0,
+      "mean_sbci": 9.883849143981934,
+      "max_sbci": 14.792693138122559,
+      "detection_confidence": 14.792693138122559,
+      "ais_status": "DARK"
+    }
+  ]
+}

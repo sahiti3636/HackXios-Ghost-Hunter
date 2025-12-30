@@ -1,0 +1,72 @@
+{
+  "satellite_name": "sat13",
+  "summary": {
+    "total_radar_detections": 4,
+    "normal_vessels": 0,
+    "dark_vessels": 4,
+    "dark_vessel_percentage": 100.0,
+    "parameters": {
+      "distance_threshold_km": 2,
+      "time_threshold_minutes": 60,
+      "ais_search_buffer_deg": 1.0
+    }
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 9886.608695652174,
+      "pixel_y": 2050.9565217391305,
+      "latitude": 34.79292434487894,
+      "longitude": -28.45370697478501,
+      "area_pixels": 23,
+      "mean_backscatter": 949.95654296875,
+      "max_backscatter": 1584.0,
+      "mean_sbci": 8.598788261413574,
+      "max_sbci": 14.456751823425293,
+      "detection_confidence": 14.456751823425293,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 7076.5,
+      "pixel_y": 6231.5,
+      "latitude": 32.996784036294855,
+      "longitude": -29.857390655366157,
+      "area_pixels": 16,
+      "mean_backscatter": 6574.1875,
+      "max_backscatter": 9131.0,
+      "mean_sbci": 14.338386535644531,
+      "max_sbci": 20.067630767822266,
+      "detection_confidence": 20.067630767822266,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 8915.0,
+      "pixel_y": 7572.0,
+      "latitude": 32.42084789397812,
+      "longitude": -28.939037407770687,
+      "area_pixels": 9,
+      "mean_backscatter": 1341.4444580078125,
+      "max_backscatter": 1696.0,
+      "mean_sbci": 7.7128143310546875,
+      "max_sbci": 9.805272102355957,
+      "detection_confidence": 9.805272102355957,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 5517.0,
+      "pixel_y": 7845.0,
+      "latitude": 32.30355541590839,
+      "longitude": -30.636379988858206,
+      "area_pixels": 9,
+      "mean_backscatter": 1150.5555419921875,
+      "max_backscatter": 1292.0,
+      "mean_sbci": 6.911068439483643,
+      "max_sbci": 7.781002044677734,
+      "detection_confidence": 7.781002044677734,
+      "ais_status": "DARK"
+    }
+  ]
+}

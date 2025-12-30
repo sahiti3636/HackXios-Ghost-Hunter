@@ -1,0 +1,2 @@
+vessel_id,pixel_x,pixel_y,area_pixels,mean_backscatter,mean_sbci,aspect_ratio,compactness,bbox_min_x,bbox_min_y,bbox_max_x,bbox_max_y,cluster_id
+1,10077.0,7809.5,18,1844.9444580078125,9.883849143981934,1.3333333333333333,1.047197551196598,10074.60634631759,7807.704759738193,10079.39365368241,7811.295240261807,0

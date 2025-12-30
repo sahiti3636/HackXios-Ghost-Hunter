@@ -1,0 +1,44 @@
+{
+  "satellite_name": "sat14",
+  "summary": {
+    "total_radar_detections": 2,
+    "normal_vessels": 0,
+    "dark_vessels": 2,
+    "dark_vessel_percentage": 100.0,
+    "parameters": {
+      "distance_threshold_km": 2,
+      "time_threshold_minutes": 60,
+      "ais_search_buffer_deg": 1.0
+    }
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 9154.0,
+      "pixel_y": 2464.5,
+      "latitude": 41.8255919877988,
+      "longitude": -26.90964310842456,
+      "area_pixels": 12,
+      "mean_backscatter": 3443.166748046875,
+      "max_backscatter": 4813.0,
+      "mean_sbci": 11.550381660461426,
+      "max_sbci": 16.335641860961914,
+      "detection_confidence": 16.335641860961914,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 8100.894736842105,
+      "pixel_y": 4537.421052631579,
+      "latitude": 40.94165117018767,
+      "longitude": -27.490181695142663,
+      "area_pixels": 19,
+      "mean_backscatter": 4282.5791015625,
+      "max_backscatter": 6509.0,
+      "mean_sbci": 9.85152816772461,
+      "max_sbci": 15.125377655029297,
+      "detection_confidence": 15.125377655029297,
+      "ais_status": "DARK"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "pipeline_execution": {
+    "timestamp": "2025-12-29T11:03:58.865004",
+    "total_duration_seconds": 85.7,
+    "satellites_processed": 1,
+    "successful_satellites": 0,
+    "status": "FAILED"
+  },
+  "satellite_results": {
+    "sat14": {
+      "steps_completed": 4,
+      "total_steps": 5,
+      "step_results": {
+        "SAT-MPA Intersection": {
+          "success": true,
+          "step_number": 1
+        },
+        "Ship Detection": {
+          "success": false,
+          "step_number": 2
+        },
+        "Vessel Feature Extraction": {
+          "success": true,
+          "step_number": 3
+        },
+        "AIS Detection": {
+          "success": true,
+          "step_number": 4
+        },
+        "CNN Dataset Generation": {
+          "success": true,
+          "step_number": 5
+        }
+      },
+      "success": false
+    }
+  },
+  "aggregate_statistics": {
+    "total_vessels_detected": 2,
+    "dark_vessel_candidates": 2,
+    "normal_vessels": 0,
+    "dark_vessel_percentage": 100.0,
+    "vessels_per_satellite": 2.0
+  },
+  "cnn_dataset": {
+    "total_patches": 161,
+    "ship_patches": 31,
+    "sea_patches": 130
+  },
+  "output_files": [
+    {
+      "file": "output/json/ship_detection_results_sat14.json",
+      "satellite": "sat14",
+      "size_bytes": 1263,
+      "size_mb": 0.0
+    },
+    {
+      "file": "output/json/vessel_features_sat14.json",
+      "satellite": "sat14",
+      "size_bytes": 902,
+      "size_mb": 0.0
+    },
+    {
+      "file": "output/png/vessel_clusters_overlay_sat14.png",
+      "satellite": "sat14",
+      "size_bytes": 8101819,
+      "size_mb": 7.73
+    },
+    {
+      "file": "output/json/ship_detection_with_ais_status_sat14.json",
+      "satellite": "sat14",
+      "size_bytes": 1226,
+      "size_mb": 0.0
+    },
+    {
+      "file": "cnn_dataset/labels.json",
+      "satellite": "ALL",
+      "size_bytes": 41699,
+      "size_mb": 0.04
+    },
+    {
+      "file": "cnn_dataset/dataset_stats.json",
+      "satellite": "ALL",
+      "size_bytes": 294,
+      "size_mb": 0.0
+    },
+    {
+      "file": "cnn_dataset/sample_patches.png",
+      "satellite": "ALL",
+      "size_bytes": 191420,
+      "size_mb": 0.18
+    },
+    {
+      "file": "output/json/multi_satellite_pipeline_summary.json",
+      "satellite": "ALL",
+      "size_bytes": 5127,
+      "size_mb": 0.0
+    },
+    {
+      "file": "cnn_dataset/images/ (161 images)",
+      "satellite": "ALL",
+      "size_bytes": 549117,
+      "size_mb": 0.52
+    }
+  ]
+}

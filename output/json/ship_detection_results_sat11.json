@@ -1,0 +1,191 @@
+{
+  "satellite_name": "sat11",
+  "detection_parameters": {
+    "sbci_threshold": 5.0,
+    "min_vessel_size": 3,
+    "window_size": null
+  },
+  "statistics": {
+    "total_pixels": 105056415,
+    "valid_pixels": 104469154,
+    "detected_pixels": 104,
+    "vessel_count": 6,
+    "processing_time": 27.599104
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 8843.0,
+      "pixel_y": 216.5,
+      "latitude": 43.8388708533134,
+      "longitude": -28.840691134969912,
+      "area_pixels": 12,
+      "mean_backscatter": 2323.083251953125,
+      "max_backscatter": 3570.0,
+      "mean_sbci": 8.072443962097168,
+      "max_sbci": 12.524718284606934,
+      "detection_confidence": 12.524718284606934
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 3056.5,
+      "pixel_y": 3617.5,
+      "latitude": 42.389272807673144,
+      "longitude": -32.08404621769032,
+      "area_pixels": 18,
+      "mean_backscatter": 6952.5556640625,
+      "max_backscatter": 8020.0,
+      "mean_sbci": 7.914238929748535,
+      "max_sbci": 9.187334060668945,
+      "detection_confidence": 9.187334060668945
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 9558.5,
+      "pixel_y": 4418.0,
+      "latitude": 42.04807808978575,
+      "longitude": -28.439650685356767,
+      "area_pixels": 12,
+      "mean_backscatter": 1745.5833740234375,
+      "max_backscatter": 2218.0,
+      "mean_sbci": 7.556550979614258,
+      "max_sbci": 9.664201736450195,
+      "detection_confidence": 9.664201736450195
+    },
+    {
+      "vessel_id": 4,
+      "pixel_x": 2637.0,
+      "pixel_y": 8128.0,
+      "latitude": 40.46677589945192,
+      "longitude": -32.31917755048238,
+      "area_pixels": 9,
+      "mean_backscatter": 6081.5556640625,
+      "max_backscatter": 7836.0,
+      "mean_sbci": 8.422648429870605,
+      "max_sbci": 10.901777267456055,
+      "detection_confidence": 10.901777267456055
+    },
+    {
+      "vessel_id": 5,
+      "pixel_x": 3927.0,
+      "pixel_y": 8305.0,
+      "latitude": 40.391333719481814,
+      "longitude": -31.596127683255325,
+      "area_pixels": 9,
+      "mean_backscatter": 5187.22216796875,
+      "max_backscatter": 6790.0,
+      "mean_sbci": 9.826200485229492,
+      "max_sbci": 12.945775985717773,
+      "detection_confidence": 12.945775985717773
+    },
+    {
+      "vessel_id": 6,
+      "pixel_x": 4138.0,
+      "pixel_y": 9479.0,
+      "latitude": 39.890943215047336,
+      "longitude": -31.477861387142994,
+      "area_pixels": 9,
+      "mean_backscatter": 3196.111083984375,
+      "max_backscatter": 3834.0,
+      "mean_sbci": 7.427194595336914,
+      "max_sbci": 8.933087348937988,
+      "detection_confidence": 8.933087348937988
+    }
+  ],
+  "mpa_results": {
+    "Azores": {
+      "mpa_name": "Azores",
+      "vessels_detected": 6,
+      "vessels": [
+        {
+          "vessel_id": 1,
+          "pixel_x": 8843.0,
+          "pixel_y": 216.5,
+          "latitude": 43.8388708533134,
+          "longitude": -28.840691134969912,
+          "area_pixels": 12,
+          "mean_backscatter": 2323.083251953125,
+          "max_backscatter": 3570.0,
+          "mean_sbci": 8.072443962097168,
+          "max_sbci": 12.524718284606934,
+          "detection_confidence": 12.524718284606934
+        },
+        {
+          "vessel_id": 2,
+          "pixel_x": 3056.5,
+          "pixel_y": 3617.5,
+          "latitude": 42.389272807673144,
+          "longitude": -32.08404621769032,
+          "area_pixels": 18,
+          "mean_backscatter": 6952.5556640625,
+          "max_backscatter": 8020.0,
+          "mean_sbci": 7.914238929748535,
+          "max_sbci": 9.187334060668945,
+          "detection_confidence": 9.187334060668945
+        },
+        {
+          "vessel_id": 3,
+          "pixel_x": 9558.5,
+          "pixel_y": 4418.0,
+          "latitude": 42.04807808978575,
+          "longitude": -28.439650685356767,
+          "area_pixels": 12,
+          "mean_backscatter": 1745.5833740234375,
+          "max_backscatter": 2218.0,
+          "mean_sbci": 7.556550979614258,
+          "max_sbci": 9.664201736450195,
+          "detection_confidence": 9.664201736450195
+        },
+        {
+          "vessel_id": 4,
+          "pixel_x": 2637.0,
+          "pixel_y": 8128.0,
+          "latitude": 40.46677589945192,
+          "longitude": -32.31917755048238,
+          "area_pixels": 9,
+          "mean_backscatter": 6081.5556640625,
+          "max_backscatter": 7836.0,
+          "mean_sbci": 8.422648429870605,
+          "max_sbci": 10.901777267456055,
+          "detection_confidence": 10.901777267456055
+        },
+        {
+          "vessel_id": 5,
+          "pixel_x": 3927.0,
+          "pixel_y": 8305.0,
+          "latitude": 40.391333719481814,
+          "longitude": -31.596127683255325,
+          "area_pixels": 9,
+          "mean_backscatter": 5187.22216796875,
+          "max_backscatter": 6790.0,
+          "mean_sbci": 9.826200485229492,
+          "max_sbci": 12.945775985717773,
+          "detection_confidence": 12.945775985717773
+        },
+        {
+          "vessel_id": 6,
+          "pixel_x": 4138.0,
+          "pixel_y": 9479.0,
+          "latitude": 39.890943215047336,
+          "longitude": -31.477861387142994,
+          "area_pixels": 9,
+          "mean_backscatter": 3196.111083984375,
+          "max_backscatter": 3834.0,
+          "mean_sbci": 7.427194595336914,
+          "max_sbci": 8.933087348937988,
+          "detection_confidence": 8.933087348937988
+        }
+      ],
+      "processing_stats": {
+        "region_size": [
+          10035,
+          10469
+        ],
+        "valid_pixels": 104469154,
+        "sbci_threshold": 5.0,
+        "window_size": 21
+      }
+    }
+  },
+  "processing_timestamp": "2025-12-29T05:21:58.775577+00:00"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "vessel_id": 1,
+    "pixel_x": 9184.0,
+    "pixel_y": 5622.0,
+    "area_pixels": 9,
+    "mean_backscatter": 2500.0,
+    "mean_sbci": 8.124310493469238,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.0471975511965976,
+    "bbox_min_x": 9182.307431249357,
+    "bbox_min_y": 5620.7305734370175,
+    "bbox_max_x": 9185.692568750643,
+    "bbox_max_y": 5623.2694265629825,
+    "cluster_id": 2
+  },
+  {
+    "vessel_id": 2,
+    "pixel_x": 6445.0,
+    "pixel_y": 6482.0,
+    "area_pixels": 9,
+    "mean_backscatter": 2922.5556640625,
+    "mean_sbci": 10.390249252319336,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.0471975511965976,
+    "bbox_min_x": 6443.307431249356,
+    "bbox_min_y": 6480.7305734370175,
+    "bbox_max_x": 6446.692568750644,
+    "bbox_max_y": 6483.2694265629825,
+    "cluster_id": 1
+  },
+  {
+    "vessel_id": 3,
+    "pixel_x": 9181.0,
+    "pixel_y": 9747.0,
+    "area_pixels": 9,
+    "mean_backscatter": 1259.0,
+    "mean_sbci": 7.736667156219482,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.0471975511965976,
+    "bbox_min_x": 9179.307431249357,
+    "bbox_min_y": 9745.730573437018,
+    "bbox_max_x": 9182.692568750643,
+    "bbox_max_y": 9748.269426562982,
+    "cluster_id": 0
+  }
+]

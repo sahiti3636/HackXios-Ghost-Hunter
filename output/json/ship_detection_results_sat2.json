@@ -1,0 +1,128 @@
+{
+  "satellite_name": "sat2",
+  "detection_parameters": {
+    "sbci_threshold": 5.0,
+    "min_vessel_size": 3,
+    "window_size": null
+  },
+  "statistics": {
+    "total_pixels": 112542308,
+    "valid_pixels": 110328285,
+    "detected_pixels": 54,
+    "vessel_count": 2,
+    "processing_time": 35.622764
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 10160.166666666666,
+      "pixel_y": 3021.3333333333335,
+      "latitude": 46.507508838729684,
+      "longitude": -26.89835278518448,
+      "area_pixels": 18,
+      "mean_backscatter": 1476.22216796875,
+      "max_backscatter": 2221.0,
+      "mean_sbci": 8.416434288024902,
+      "max_sbci": 12.83039665222168,
+      "detection_confidence": 12.83039665222168
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 6693.0,
+      "pixel_y": 8807.5,
+      "latitude": 44.06865843091738,
+      "longitude": -28.990931409416483,
+      "area_pixels": 12,
+      "mean_backscatter": 3774.416748046875,
+      "max_backscatter": 5510.0,
+      "mean_sbci": 11.201071739196777,
+      "max_sbci": 16.522188186645508,
+      "detection_confidence": 16.522188186645508
+    }
+  ],
+  "mpa_results": {
+    "Azores": {
+      "mpa_name": "Azores",
+      "vessels_detected": 2,
+      "vessels": [
+        {
+          "vessel_id": 1,
+          "pixel_x": 10160.166666666666,
+          "pixel_y": 3021.3333333333335,
+          "latitude": 46.507508838729684,
+          "longitude": -26.89835278518448,
+          "area_pixels": 18,
+          "mean_backscatter": 1476.22216796875,
+          "max_backscatter": 2221.0,
+          "mean_sbci": 8.416434288024902,
+          "max_sbci": 12.83039665222168,
+          "detection_confidence": 12.83039665222168
+        },
+        {
+          "vessel_id": 2,
+          "pixel_x": 6693.0,
+          "pixel_y": 8807.5,
+          "latitude": 44.06865843091738,
+          "longitude": -28.990931409416483,
+          "area_pixels": 12,
+          "mean_backscatter": 3774.416748046875,
+          "max_backscatter": 5510.0,
+          "mean_sbci": 11.201071739196777,
+          "max_sbci": 16.522188186645508,
+          "detection_confidence": 16.522188186645508
+        }
+      ],
+      "processing_stats": {
+        "region_size": [
+          10748,
+          10471
+        ],
+        "valid_pixels": 110328285,
+        "sbci_threshold": 5.0,
+        "window_size": 21
+      }
+    },
+    "North Atlantic Current Evl Basin Mpa": {
+      "mpa_name": "North Atlantic Current Evl Basin Mpa",
+      "vessels_detected": 2,
+      "vessels": [
+        {
+          "vessel_id": 1,
+          "pixel_x": 10160.166666666666,
+          "pixel_y": 3021.3333333333335,
+          "latitude": 46.507508838729684,
+          "longitude": -26.89835278518448,
+          "area_pixels": 18,
+          "mean_backscatter": 1476.22216796875,
+          "max_backscatter": 2221.0,
+          "mean_sbci": 8.416434288024902,
+          "max_sbci": 12.83039665222168,
+          "detection_confidence": 12.83039665222168
+        },
+        {
+          "vessel_id": 2,
+          "pixel_x": 6693.0,
+          "pixel_y": 8807.5,
+          "latitude": 44.06865843091738,
+          "longitude": -28.990931409416483,
+          "area_pixels": 12,
+          "mean_backscatter": 3774.416748046875,
+          "max_backscatter": 5510.0,
+          "mean_sbci": 11.201071739196777,
+          "max_sbci": 16.522188186645508,
+          "detection_confidence": 16.522188186645508
+        }
+      ],
+      "processing_stats": {
+        "region_size": [
+          10748,
+          10471
+        ],
+        "valid_pixels": 110328285,
+        "sbci_threshold": 5.0,
+        "window_size": 21
+      }
+    }
+  },
+  "processing_timestamp": "2025-12-29T05:01:38.191938+00:00"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "vessel_id": 1,
+    "pixel_x": 10077.0,
+    "pixel_y": 7809.5,
+    "area_pixels": 18,
+    "mean_backscatter": 1844.9444580078125,
+    "mean_sbci": 9.883849143981934,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.047197551196598,
+    "bbox_min_x": 10074.60634631759,
+    "bbox_min_y": 7807.704759738193,
+    "bbox_max_x": 10079.39365368241,
+    "bbox_max_y": 7811.295240261807,
+    "cluster_id": 0
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "satellite_name": "sat8",
+  "summary": {
+    "total_radar_detections": 3,
+    "normal_vessels": 0,
+    "dark_vessels": 3,
+    "dark_vessel_percentage": 100.0,
+    "parameters": {
+      "distance_threshold_km": 2,
+      "time_threshold_minutes": 60,
+      "ais_search_buffer_deg": 1.0
+    }
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 5962.105263157895,
+      "pixel_y": 5989.421052631579,
+      "latitude": 33.10071569801818,
+      "longitude": -30.415484206772287,
+      "area_pixels": 19,
+      "mean_backscatter": 4603.0,
+      "max_backscatter": 7149.0,
+      "mean_sbci": 10.77710247039795,
+      "max_sbci": 16.929908752441406,
+      "detection_confidence": 16.929908752441406,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 5140.0,
+      "pixel_y": 7823.5,
+      "latitude": 32.31272892710357,
+      "longitude": -30.82613036558423,
+      "area_pixels": 12,
+      "mean_backscatter": 1442.1666259765625,
+      "max_backscatter": 2193.0,
+      "mean_sbci": 8.576647758483887,
+      "max_sbci": 13.184489250183105,
+      "detection_confidence": 13.184489250183105,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 3,
+      "pixel_x": 9046.5,
+      "pixel_y": 8937.0,
+      "latitude": 31.83432898108578,
+      "longitude": -28.874811852871154,
+      "area_pixels": 12,
+      "mean_backscatter": 1325.6666259765625,
+      "max_backscatter": 1628.0,
+      "mean_sbci": 8.177900314331055,
+      "max_sbci": 10.079360008239746,
+      "detection_confidence": 10.079360008239746,
+      "ais_status": "DARK"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "satellite_name": "sat6",
+  "detection_parameters": {
+    "sbci_threshold": 5.0,
+    "min_vessel_size": 3,
+    "window_size": null
+  },
+  "statistics": {
+    "total_pixels": 105056415,
+    "valid_pixels": 104471947,
+    "detected_pixels": 68,
+    "vessel_count": 2,
+    "processing_time": 27.684651
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 5765.0,
+      "pixel_y": 6875.0,
+      "latitude": 41.000689695067265,
+      "longitude": -30.565481681058362,
+      "area_pixels": 9,
+      "mean_backscatter": 1389.77783203125,
+      "max_backscatter": 1775.0,
+      "mean_sbci": 6.911434650421143,
+      "max_sbci": 8.894102096557617,
+      "detection_confidence": 8.894102096557617
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 7575.833333333333,
+      "pixel_y": 7915.666666666667,
+      "latitude": 40.557122095067264,
+      "longitude": -29.550485468271404,
+      "area_pixels": 18,
+      "mean_backscatter": 2370.333251953125,
+      "max_backscatter": 3287.0,
+      "mean_sbci": 8.65861988067627,
+      "max_sbci": 12.09567642211914,
+      "detection_confidence": 12.09567642211914
+    }
+  ],
+  "mpa_results": {
+    "Azores": {
+      "mpa_name": "Azores",
+      "vessels_detected": 2,
+      "vessels": [
+        {
+          "vessel_id": 1,
+          "pixel_x": 5765.0,
+          "pixel_y": 6875.0,
+          "latitude": 41.000689695067265,
+          "longitude": -30.565481681058362,
+          "area_pixels": 9,
+          "mean_backscatter": 1389.77783203125,
+          "max_backscatter": 1775.0,
+          "mean_sbci": 6.911434650421143,
+          "max_sbci": 8.894102096557617,
+          "detection_confidence": 8.894102096557617
+        },
+        {
+          "vessel_id": 2,
+          "pixel_x": 7575.833333333333,
+          "pixel_y": 7915.666666666667,
+          "latitude": 40.557122095067264,
+          "longitude": -29.550485468271404,
+          "area_pixels": 18,
+          "mean_backscatter": 2370.333251953125,
+          "max_backscatter": 3287.0,
+          "mean_sbci": 8.65861988067627,
+          "max_sbci": 12.09567642211914,
+          "detection_confidence": 12.09567642211914
+        }
+      ],
+      "processing_stats": {
+        "region_size": [
+          10035,
+          10469
+        ],
+        "valid_pixels": 104471947,
+        "sbci_threshold": 5.0,
+        "window_size": 21
+      }
+    }
+  },
+  "processing_timestamp": "2025-12-29T05:11:42.538930+00:00"
+}

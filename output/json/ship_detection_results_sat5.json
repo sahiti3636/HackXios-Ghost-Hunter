@@ -1,0 +1,61 @@
+{
+  "satellite_name": "sat5",
+  "detection_parameters": {
+    "sbci_threshold": 5.0,
+    "min_vessel_size": 3,
+    "window_size": null
+  },
+  "statistics": {
+    "total_pixels": 113013540,
+    "valid_pixels": 110773042,
+    "detected_pixels": 50,
+    "vessel_count": 1,
+    "processing_time": 30.723108
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 8126.0,
+      "pixel_y": 10076.0,
+      "latitude": 42.48034705857741,
+      "longitude": -26.387812790635707,
+      "area_pixels": 9,
+      "mean_backscatter": 1707.4444580078125,
+      "max_backscatter": 2071.0,
+      "mean_sbci": 8.343658447265625,
+      "max_sbci": 10.20837116241455,
+      "detection_confidence": 10.20837116241455
+    }
+  ],
+  "mpa_results": {
+    "Azores": {
+      "mpa_name": "Azores",
+      "vessels_detected": 1,
+      "vessels": [
+        {
+          "vessel_id": 1,
+          "pixel_x": 8126.0,
+          "pixel_y": 10076.0,
+          "latitude": 42.48034705857741,
+          "longitude": -26.387812790635707,
+          "area_pixels": 9,
+          "mean_backscatter": 1707.4444580078125,
+          "max_backscatter": 2071.0,
+          "mean_sbci": 8.343658447265625,
+          "max_sbci": 10.20837116241455,
+          "detection_confidence": 10.20837116241455
+        }
+      ],
+      "processing_stats": {
+        "region_size": [
+          10755,
+          10508
+        ],
+        "valid_pixels": 110773042,
+        "sbci_threshold": 5.0,
+        "window_size": 21
+      }
+    }
+  },
+  "processing_timestamp": "2025-12-29T05:09:46.225347+00:00"
+}

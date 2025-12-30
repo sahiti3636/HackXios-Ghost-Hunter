@@ -1,0 +1,32 @@
+[
+  {
+    "vessel_id": 1,
+    "pixel_x": 5765.0,
+    "pixel_y": 6875.0,
+    "area_pixels": 9,
+    "mean_backscatter": 1389.77783203125,
+    "mean_sbci": 6.911434650421143,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.0471975511965976,
+    "bbox_min_x": 5763.307431249356,
+    "bbox_min_y": 6873.7305734370175,
+    "bbox_max_x": 5766.692568750644,
+    "bbox_max_y": 6876.2694265629825,
+    "cluster_id": 0
+  },
+  {
+    "vessel_id": 2,
+    "pixel_x": 7575.833333333333,
+    "pixel_y": 7915.666666666667,
+    "area_pixels": 18,
+    "mean_backscatter": 2370.333251953125,
+    "mean_sbci": 8.65861988067627,
+    "aspect_ratio": 1.3333333333333333,
+    "compactness": 1.047197551196598,
+    "bbox_min_x": 7573.4396796509245,
+    "bbox_min_y": 7913.87142640486,
+    "bbox_max_x": 7578.2269870157415,
+    "bbox_max_y": 7917.461906928474,
+    "cluster_id": 1
+  }
+]

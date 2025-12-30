@@ -1,0 +1,44 @@
+{
+  "satellite_name": "sat6",
+  "summary": {
+    "total_radar_detections": 2,
+    "normal_vessels": 0,
+    "dark_vessels": 2,
+    "dark_vessel_percentage": 100.0,
+    "parameters": {
+      "distance_threshold_km": 2,
+      "time_threshold_minutes": 60,
+      "ais_search_buffer_deg": 1.0
+    }
+  },
+  "vessel_candidates": [
+    {
+      "vessel_id": 1,
+      "pixel_x": 5765.0,
+      "pixel_y": 6875.0,
+      "latitude": 41.000689695067265,
+      "longitude": -30.565481681058362,
+      "area_pixels": 9,
+      "mean_backscatter": 1389.77783203125,
+      "max_backscatter": 1775.0,
+      "mean_sbci": 6.911434650421143,
+      "max_sbci": 8.894102096557617,
+      "detection_confidence": 8.894102096557617,
+      "ais_status": "DARK"
+    },
+    {
+      "vessel_id": 2,
+      "pixel_x": 7575.833333333333,
+      "pixel_y": 7915.666666666667,
+      "latitude": 40.557122095067264,
+      "longitude": -29.550485468271404,
+      "area_pixels": 18,
+      "mean_backscatter": 2370.333251953125,
+      "max_backscatter": 3287.0,
+      "mean_sbci": 8.65861988067627,
+      "max_sbci": 12.09567642211914,
+      "detection_confidence": 12.09567642211914,
+      "ais_status": "DARK"
+    }
+  ]
+}
