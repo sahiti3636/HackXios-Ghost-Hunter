@@ -1,0 +1,31 @@
+{
+  "test_timestamp": "2025-12-29T21:04:21.999264",
+  "test_type": "Integration Test - Full Pipeline",
+  "model_path": "sar_cnn_model.pth",
+  "pipeline_performance": {
+    "total_vessels_detected": 7,
+    "average_confidence": 0.0005285714285714286,
+    "vessels_above_threshold_70": 0,
+    "vessels_above_threshold_50": 0,
+    "verification_success_rate": 0.0
+  },
+  "training_data_performance": {
+    "ship_avg_confidence": 1.0,
+    "sea_avg_confidence": 0.0
+  },
+  "model_validation_summary": {
+    "minimum_accuracy_85pct": true,
+    "vessel_confidence_above_70pct": true,
+    "overall_pass": true
+  },
+  "issues_identified": [
+    "Very low confidence scores on pipeline-generated chips",
+    "No vessels meet the 0.7 confidence threshold",
+    "Large performance gap between training data and pipeline chips"
+  ],
+  "recommendations": [
+    "Investigate preprocessing consistency between training and inference",
+    "Review chip extraction and preprocessing pipeline",
+    "Ensure training data represents real pipeline conditions"
+  ]
+}

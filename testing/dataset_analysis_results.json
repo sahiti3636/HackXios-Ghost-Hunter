@@ -1,0 +1,107 @@
+{
+  "total_samples": 440,
+  "ship_count": 280,
+  "sea_count": 160,
+  "ship_percentage": 63.63636363636363,
+  "sea_percentage": 36.36363636363637,
+  "imbalance_ratio": 1.75,
+  "severity": "MODERATE",
+  "target_count": 280,
+  "ship_needed": 0,
+  "sea_needed": 120,
+  "satellite_counts": {
+    "sat2": 12,
+    "sat3": 12,
+    "sat4": 11,
+    "sat5": 11,
+    "sat6": 12,
+    "sat7": 11,
+    "sat10": 11,
+    "sat8": 11,
+    "sat9": 11,
+    "sat11": 15,
+    "sat12": 11,
+    "sat13": 13,
+    "sat14": 12,
+    "sat15": 82,
+    "sat16": 74,
+    "sat17": 131
+  },
+  "satellite_class_counts": {
+    "sat2": {
+      "ship": 2,
+      "sea": 10
+    },
+    "sat3": {
+      "ship": 2,
+      "sea": 10
+    },
+    "sat4": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat5": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat6": {
+      "ship": 2,
+      "sea": 10
+    },
+    "sat7": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat10": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat8": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat9": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat11": {
+      "ship": 5,
+      "sea": 10
+    },
+    "sat12": {
+      "ship": 1,
+      "sea": 10
+    },
+    "sat13": {
+      "ship": 3,
+      "sea": 10
+    },
+    "sat14": {
+      "ship": 2,
+      "sea": 10
+    },
+    "sat15": {
+      "ship": 72,
+      "sea": 10
+    },
+    "sat16": {
+      "ship": 64,
+      "sea": 10
+    },
+    "sat17": {
+      "ship": 121,
+      "sea": 10
+    }
+  },
+  "num_satellites": 16,
+  "total_referenced": 440,
+  "existing_files": 440,
+  "missing_files": 0,
+  "missing_file_list": [],
+  "file_existence_rate": 100.0,
+  "recommendations": [
+    "Generate 120 additional sea patches to balance the dataset (current ratio: 1.75:1 ship:sea)",
+    "Ensure diverse sampling from different ocean regions to avoid overfitting"
+  ],
+  "analysis_timestamp": "unknown"
+}
