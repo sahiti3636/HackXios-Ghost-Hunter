@@ -1,0 +1,17 @@
+ghost-hunter-frontend/
+hackxois/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/
+results/
+archived_reports/
+output/
+*.db
+sar_cnn_model.pth
+.vscode/
+package-lock.json
+cnn_dataset/
+evaluation_results/

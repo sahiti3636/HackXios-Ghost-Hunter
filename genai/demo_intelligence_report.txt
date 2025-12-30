@@ -1,0 +1,32 @@
+============================================================
+MARITIME INTELLIGENCE REPORT
+============================================================
+Generated: 2025-12-29 21:26:04 UTC
+Source: Ghost Hunter Maritime Surveillance System
+Analysis Engine: gemini-1.5-pro (simulated)
+
+EXECUTIVE SUMMARY:
+--------------------
+Maritime surveillance detected 7 vessel candidates in the operational area, with 7 vessels operating without AIS transponders. This pattern suggests potential illegal fishing activity requiring immediate enforcement attention. The vessels demonstrate coordinated behavior patterns consistent with organized fishing operations in protected waters.
+
+THREAT ASSESSMENT: HIGH
+
+KEY FINDINGS:
+---------------
+1. 7 total vessel detections in Marine Protected Area
+2. 7 dark vessels operating without AIS identification
+3. Average risk score: 40.0/100
+4. Vessels clustered in high-value fishing areas during restricted season
+5. Strong radar signatures consistent with commercial fishing vessels
+6. Coordinated movement patterns suggesting fleet operations
+
+RECOMMENDATIONS:
+------------------
+1. Deploy maritime patrol assets for immediate vessel interdiction
+2. Coordinate with fisheries enforcement agencies for legal action
+3. Document evidence collection for potential prosecution
+4. Increase surveillance coverage in adjacent protected areas
+5. Cross-reference vessel signatures with known fishing fleet databases
+6. Implement real-time monitoring for continued illegal activity
+
+CONFIDENCE LEVEL: HIGH

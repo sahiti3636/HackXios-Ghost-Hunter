@@ -1,0 +1,22 @@
+{
+    "vessel_candidates": [
+        {
+            "image": "ship_1.png",
+            "location_data": {
+                "latitude": 10.0,
+                "longitude": 100.0,
+                "mpa_name": "Galapagos"
+            },
+            "ais_verification": {"status": "Dark"}
+        },
+        {
+            "image": "ship_nearby.png",
+            "location_data": {
+                "latitude": 10.005,
+                "longitude": 100.005,
+                "mpa_name": "Galapagos"
+            },
+            "ais_verification": {"status": "Dark"}
+        }
+    ]
+}
