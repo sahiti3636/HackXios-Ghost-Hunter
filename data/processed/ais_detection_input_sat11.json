@@ -1,0 +1,74 @@
+[
+  {
+    "vessel_id": 1,
+    "latitude": 6.535253,
+    "longitude": 95.002391,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 1,
+    "mean_sbci": 8.072444,
+    "max_sbci": 0,
+    "mean_backscatter": 2323.08,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  },
+  {
+    "vessel_id": 2,
+    "latitude": 5.767784,
+    "longitude": 93.810032,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 2,
+    "mean_sbci": 7.914239,
+    "max_sbci": 0,
+    "mean_backscatter": 6952.56,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  },
+  {
+    "vessel_id": 3,
+    "latitude": 5.587143,
+    "longitude": 95.149826,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 1,
+    "mean_sbci": 7.556551,
+    "max_sbci": 0,
+    "mean_backscatter": 1745.58,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  },
+  {
+    "vessel_id": 4,
+    "latitude": 4.749946,
+    "longitude": 93.723591,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 0,
+    "mean_sbci": 8.422648,
+    "max_sbci": 0,
+    "mean_backscatter": 6081.56,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  },
+  {
+    "vessel_id": 5,
+    "latitude": 4.710004,
+    "longitude": 93.989406,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 0,
+    "mean_sbci": 9.8262,
+    "max_sbci": 0,
+    "mean_backscatter": 5187.22,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  },
+  {
+    "vessel_id": 6,
+    "latitude": 4.445079,
+    "longitude": 94.032885,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 1,
+    "mean_sbci": 7.427195,
+    "max_sbci": 0,
+    "mean_backscatter": 3196.11,
+    "max_backscatter": 0,
+    "satellite_source": "sat11"
+  }
+]

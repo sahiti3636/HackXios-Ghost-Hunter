@@ -1,0 +1,26 @@
+[
+  {
+    "vessel_id": 1,
+    "latitude": 6.02797,
+    "longitude": 95.066475,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 0,
+    "mean_sbci": 11.550382,
+    "max_sbci": 0,
+    "mean_backscatter": 3443.17,
+    "max_backscatter": 0,
+    "satellite_source": "sat14"
+  },
+  {
+    "vessel_id": 2,
+    "latitude": 5.560195,
+    "longitude": 94.849473,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 1,
+    "mean_sbci": 9.851528,
+    "max_sbci": 0,
+    "mean_backscatter": 4282.58,
+    "max_backscatter": 0,
+    "satellite_source": "sat14"
+  }
+]

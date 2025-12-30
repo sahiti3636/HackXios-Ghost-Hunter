@@ -1,0 +1,14 @@
+[
+  {
+    "vessel_id": 1,
+    "latitude": 4.31036,
+    "longitude": 94.854647,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 0,
+    "mean_sbci": 8.343658,
+    "max_sbci": 0,
+    "mean_backscatter": 1707.44,
+    "max_backscatter": 0,
+    "satellite_source": "sat5"
+  }
+]

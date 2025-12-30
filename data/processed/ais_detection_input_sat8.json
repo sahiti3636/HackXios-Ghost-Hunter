@@ -1,0 +1,38 @@
+[
+  {
+    "vessel_id": 1,
+    "latitude": 5.232537,
+    "longitude": 94.408757,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 1,
+    "mean_sbci": 10.777102,
+    "max_sbci": 0,
+    "mean_backscatter": 4603.0,
+    "max_backscatter": 0,
+    "satellite_source": "sat8"
+  },
+  {
+    "vessel_id": 2,
+    "latitude": 4.818659,
+    "longitude": 94.239355,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 2,
+    "mean_sbci": 8.576648,
+    "max_sbci": 0,
+    "mean_backscatter": 1442.17,
+    "max_backscatter": 0,
+    "satellite_source": "sat8"
+  },
+  {
+    "vessel_id": 3,
+    "latitude": 4.567387,
+    "longitude": 95.044324,
+    "timestamp_utc": "2025-10-21T23:28:15Z",
+    "cluster_id": 0,
+    "mean_sbci": 8.1779,
+    "max_sbci": 0,
+    "mean_backscatter": 1325.67,
+    "max_backscatter": 0,
+    "satellite_source": "sat8"
+  }
+]
