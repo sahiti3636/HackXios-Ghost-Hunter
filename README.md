@@ -10,10 +10,8 @@
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/PLACEHOLDER_VIDEO_ID)
-
-*(Click above to watch the project walkthrough)*
-
+- 🎥 **Open Innovation Track Demo:** https://youtu.be/TovBASrcox0  
+- 🎥 **AWS / Kiro Track Demo:** https://youtu.be/5ugwDowB4mk
 ---
 
 ## 📚 Tracks & Documentation
