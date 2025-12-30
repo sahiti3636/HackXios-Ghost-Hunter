@@ -19,10 +19,15 @@
 ## 📚 Tracks & Documentation
 
 ### 🏆 Open Innovation Track
+📄 **Detailed Architecture, Problem Statement & Technical Design**  
+👉 *(Link to Google Doc – (https://docs.google.com/document/d/1F8qbUlpY5mmD9qXqkOsk9WE-dmcd-b-PoYVR8xLBuTM/edit?usp=sharing))*
 We present an end-to-end maritime intelligence system that tackles illegal, unreported, and unregulated (IUU) fishing using satellite radar, computer vision, and behavioral analysis.
 Our approach goes beyond simple vessel detection by fusing Sentinel-1 SAR imagery, physics-based ship detection, CNN-based visual validation, AIS silence verification, and context-aware risk scoring to identify dark vessels operating inside protected marine regions. By combining spatial legality (MPAs), motion cues, fleet-level context, and explainable risk fusion, the system produces actionable, analyst-ready intelligence rather than raw alerts — enabling faster, more informed maritime enforcement decisions.
 
 ### ☁️ AWS Track
+
+📄 **AWS/Kiro Architecture, Execution Flow & Design Rationale**  
+👉 *(Link to Google Doc – https://docs.google.com/document/d/1zZNevPwG6epvq0aSeYlOOPLbUZ6hpRcabT4RDZEJY1E/edit?usp=sharing)*
 Our system leverages Kiro as the central orchestration and execution layer for the pipeline, enabling seamless coordination of satellite ingestion, model execution, and risk analysis workflows. Kiro is used to manage task scheduling, modular pipeline stages, and controlled execution of compute-intensive components, allowing the system to remain scalable, reproducible, and easy to extend. By structuring the entire intelligence flow as Kiro-managed tasks, we demonstrate how Kiro can be effectively used to operationalize complex AI pipelines — from data ingestion to final threat assessment — with clarity and reliability.
 
 ---
@@ -111,12 +116,12 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributors
 
-1.  Fork the repository.
-2.  Create a feature branch.
-3.  Commit your changes.
-4.  Push and open a Pull Request.
+1. [Varun E](https://github.com/varun-iiitb)
+2. [Potini Sahiti](https://github.com/sahiti3636)
+3. [Navya Sharma](https://github.com/navya2208)
+4. [Shivansh Shah](https://github.com/shivansh-shah)
 
 ---
 
